@@ -35,7 +35,8 @@
     <div style="margin-bottom:40px" class="Cloud">
         <h2>Cloud ☁️💸🛠️</h2>
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a>
-        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a> 
+        <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a>
+        <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" alt="cf" width="60" height="60"/></a>
     </div>
     <div style="margin-bottom:40px" class="Programming languages ">
         <h2>Programming languages 👨🏻‍💻📖</h2>
