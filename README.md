@@ -7,7 +7,9 @@
     </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/phatphamdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="80" width="80" /></a><a href="https://www.facebook.com/PhatHongPham31415" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="facebook" height="80" width="80" /></a></p>
+<a href="https://www.linkedin.com/in/phatphamdev" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="linkedin" height="80" width="80" /></a><a href="https://www.facebook.com/PhatHongPham31415" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="facebook" height="80" width="80" /></a>
+<a href="https://x.com/PhtHngPhm2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="facebook" height="80" width="80" /></a>
+</p>
 </div>
 
 <!-- Body section -->
@@ -23,8 +25,13 @@
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/></a>
         <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="60" height="60"/></a>
         <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="60" height="60"/> </a> 
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a>
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="60" height="60"/> </a>
+        <br/>
+        <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="RabbitMQ" width="60" height="60"/> </a>
+        <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="Kafka" width="60" height="60"/> </a>
+        <a href="https://www.redpanda.com" target="_blank" rel="noreferrer"> <img src="assets/images/redpanda.svg" alt="Kafka" width="60" height="60"/> </a>
+        <a href="https://websocket.org" target="_blank" rel="noreferrer"> <img src="assets/images/websocket.svg" alt="websocket" width="60" height="60"/> </a>
+        <a href="https://grpc.io" target="_blank" rel="noreferrer"> <img src="assets/images/grpc.png" alt="grpc" width="60" height="60"/> </a>
     </div>
     <div style="margin-bottom:40px" class="Frontend">
         <h2>Frontend 💻🌐 ⚛️</h2>
@@ -37,6 +44,11 @@
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/></a>
         <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="60"/></a>
         <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cloudflare.svg" alt="cf" width="60" height="60"/></a>
+    </div>
+    <div style="margin-bottom:40px" class="Cloud">
+        <h2>MachineLearning - DeepLearning - MML</h2>
+        <a href="https://onnxruntime.ai" target="_blank" rel="noreferrer"> <img src="https://onnxruntime.ai/images/logos/onnxruntime/ORT_icon_for_light_bg.svg" alt="onnx" width="60" height="60"/></a>
+        <a href="https://ollama.com" target="_blank" rel="noreferrer"> <img src="assets/images/ollama.png" alt="onnx" width="60" height="60"/></a>
     </div>
     <div style="margin-bottom:40px" class="Programming languages ">
         <h2>Programming languages 👨🏻‍💻📖</h2>
@@ -56,6 +68,10 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
         <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>
         <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"> <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-on-white-480.png" alt="jenkins" width="60" height="60"/> </a>
+    </div>
+    <div style="margin-bottom:40px" clas="Miscellaneous technologies">
+        <h3>DevOps</h3>
+        <a href="https://github.com/ansible/ansible" target="_blank" rel="noreferrer"> <img src="assets/images/ansible.svg" alt="ansible" width="60" height="60"/> </a>
     </div>
 </div>
 
