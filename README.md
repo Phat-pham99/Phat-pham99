@@ -3,7 +3,7 @@
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
         <td align="center" valign="middle">
-            <img alt="Hi homie, I'm Pham Hong Phat" src="https://readme-typing-svg.demolab.com?font=consola&size=40&duration=2000&pause=500&color=029699&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hi+homie%2C+;I'm+Ph%E1%BA%A1m+H%E1%BB%93ng+Ph%C3%A1t">
+            <img alt="Hi friend, I'm Pham Hong Phat" src="https://readme-typing-svg.demolab.com?font=consola&size=40&duration=2000&pause=500&color=029699&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hi+homie%2C+;I'm+Ph%E1%BA%A1m+H%E1%BB%93ng+Ph%C3%A1t">
         </td>
         <td align="center" valign="middle">
             <img src="https://media.tenor.com/K6AvF8a1gI8AAAAi/peppo-matrix.gif" alt="peppo matrix gif" width="200" height="200"/>
