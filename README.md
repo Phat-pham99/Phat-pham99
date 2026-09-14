@@ -28,10 +28,12 @@
 
 ## 🐍 🛢️ 🖧 Backend
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=django,nestjs,docker,podman,mongodb,mysql,postgres,redis,nginx,rabbitmq,kafka,grpc&perline=6&theme=dark" alt="backend stack"/>
+    <img src="https://skillicons.dev/icons?i=django,nestjs,docker,mongodb,mysql,postgres,redis,nginx,rabbitmq,kafka&perline=12&theme=dark" alt="backend stack"/>
     <br/>
+    <a href="https://podman.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/podman/podman-original.svg" alt="podman" width="52" height="52"/></a>
     <a href="https://www.redpanda.com" target="_blank" rel="noreferrer"><img src="assets/images/redpanda.svg" alt="redpanda" width="52" height="52"/></a>
     <a href="https://websocket.org" target="_blank" rel="noreferrer"><img src="assets/images/websocket.svg" alt="websocket" width="52" height="52"/></a>
+    <a href="https://grpc.io" target="_blank" rel="noreferrer"><img src="assets/images/grpc.png" alt="grpc" width="52" height="52"/></a>
 </div>
 
 ## 💻 🌐 ⚛️ Frontend
@@ -62,9 +64,10 @@
 
 ## 🤓 ☝️ Miscellaneous
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,postman,selenium,hugo,arduino,matlab&perline=6&theme=dark" alt="miscellaneous"/>
+    <img src="https://skillicons.dev/icons?i=git,postman,selenium,arduino,matlab&perline=6&theme=dark" alt="miscellaneous"/>
     <br/>
-    <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"><img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-on-white-480.png" alt="monero" width="55" height="55"/></a>
+    <a href="https://gohugo.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hugo/hugo-original.svg" alt="hugo" width="52" height="52"/></a>
+    <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"><img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-on-white-480.png" alt="monero" width="52" height="52"/></a>
 </div>
 
 ---
