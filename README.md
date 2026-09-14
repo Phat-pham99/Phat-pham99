@@ -57,6 +57,10 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>
     </div>
     <div style="margin-bottom:40px" clas="Miscellaneous technologies">
+        <h3>DevOps</h3>
+        <a href="https://github.com/ansible/ansible" target="_blank" rel="noreferrer"> <img src="assets/images/ansible.svg" alt="ansible" width="60" height="60"/> </a>
+    </div>
+    <div style="margin-bottom:40px" clas="Miscellaneous technologies">
         <h3>Miscellaneous technologies 🤓☝️</h3>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
         <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="60" height="60"/> </a> 
@@ -68,10 +72,6 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
         <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/> </a>
         <a href="https://www.getmonero.org/" target="_blank" rel="noreferrer"> <img src="https://www.getmonero.org/press-kit/symbols/monero-symbol-on-white-480.png" alt="jenkins" width="60" height="60"/> </a>
-    </div>
-    <div style="margin-bottom:40px" clas="Miscellaneous technologies">
-        <h3>DevOps</h3>
-        <a href="https://github.com/ansible/ansible" target="_blank" rel="noreferrer"> <img src="assets/images/ansible.svg" alt="ansible" width="60" height="60"/> </a>
     </div>
 </div>
 
