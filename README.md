@@ -110,11 +110,6 @@
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phat-pham99&theme=gruvbox" alt="Phat-pham99 streak"/>
         </td>
     </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Phat-pham99&theme=gruvbox&margin-w=2" alt="Phat-pham99 trophies"/></a>
-        </td>
-    </tr>
 </table>
 
 <br/>
