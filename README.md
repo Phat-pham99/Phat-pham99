@@ -1,43 +1,55 @@
-<!-- Top section -->
-
 <br/>
 <div align="center">
     <img alt="Phạm Hồng Phát" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:45ff92,100:f5b776&height=160&section=header&text=Ph%E1%BA%A1m%20H%E1%BB%93ng%20Ph%C3%A1t&fontSize=48&fontColor=FFFFFF&animation=fadeIn"/>
-    <img alt="Senior Software Engineer — Microservices & Distributed Systems — RAG & Machine Learning" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=029699&center=true&vCenter=true&width=760&height=50&lines=Senior+Software+Engineer;Microservices+%26+Distributed+Systems;RAG+%26+Machine+Learning;Digital+Health+%26+Edge+Computing" />
-    <br/>
-    <a href="https://phatpham.work" target="_blank"><img src="https://img.shields.io/badge/Website-phatpham.work-029699?style=flat-square" alt="website"/></a>
-    <a href="https://www.linkedin.com/in/phatphamdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-phatphamdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-    <a href="https://github.com/Phat-pham99" target="_blank"><img src="https://img.shields.io/badge/GitHub-Phat--pham99-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
+    <img alt="Senior Software Engineer — Microservices & Distributed Systems — RAG & Machine Learning" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&color=029699&center=true&vCenter=true&width=760&height=50&lines=Senior+Software+Engineer;Microservices+%26+Distributed+Systems;RAG+%26+Machine+Learning;Digital+Health" />
+    <br/><br/>
+    <a href="https://phatpham.work" target="_blank" rel="noopener noreferrer" title="Visit phatpham.work"><img src="assets/images/website_thumbnail.png" width="320" alt="Visit my website: phatpham.work"/></a>
+    <br/><br/>
+    <a href="https://www.linkedin.com/in/phatphamdev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-phatphamdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+    <a href="https://github.com/Phat-pham99" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-Phat--pham99-181717?style=flat-square&logo=github&logoColor=white" alt="github"/></a>
     <a href="mailto:Hphat99@gmail.com"><img src="https://img.shields.io/badge/Email-Hphat99%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
     <br/><br/>
     <img src="assets/images/pixel_developer.svg" width="84" height="72" alt="pixel developer"/>
-       
     <img src="assets/images/pixel_server.svg" width="56" alt="retro pixel server rack"/>
 </div>
 
+<p align="center">
+    <a href="#-about-me">About</a> •
+    <a href="#-experience">Experience</a> •
+    <a href="#-research--highlights">Highlights</a> •
+    <a href="#-tech-stack">Tech Stack</a> •
+    <a href="#-github-stats">GitHub Stats</a>
+</p>
+
 ## 👤 About Me
 
-- 💼 **Senior Software Engineer** with four years of experience in backend development, microservices, and infrastructure automation
+- 💼 **Senior Software Engineer** with years of experience in backend development, microservices, and cloud infrastructure
 - 🧬 Biomedical engineering foundation (HCMUT) — bridging signal processing and digital health with software architecture
-- 🛰️ Work spans distributed computing (HTCondor), cloud infrastructure (AWS · FinOps), and enterprise data services
-- 🤖 Building enterprise **RAG pipelines** with FastAPI and vector indexing; exploring edge AI inference with ONNX Runtime and Ollama
 - 📫 Best reached via email and LinkedIn
-
----
 
 ## 💼 Experience
 
-- **Senior Software Engineer I** @ FPT Software — distributed computing workflows on HTCondor (**GE Vernova**), storage gateway microservices, enterprise RAG pipelines, AWS FinOps
-- **Backend Software Engineer** @ CMC Global — event-driven microservices in NestJS / FastAPI (**Oyika Pte Ltd**), high-concurrency gRPC · Kafka · RabbitMQ · WebSockets, API security & OAuth2/JWT hardening
-- **Python Software Engineer** @ Terralogic — Python / Ansible IaC modules for Cisco Catalyst Center automation, enterprise Linux & AWS administration
+| Role | Company | Focus |
+| --- | --- | --- |
+| **Senior Software Engineer I** | FPT Software | Distributed computing workflows on HTCondor (**GE Vernova**), storage gateway microservices, enterprise RAG pipelines, AWS FinOps |
+| **Backend Software Engineer** | CMC Global | Event-driven microservices in NestJS / FastAPI (**Oyika Pte Ltd**), high-concurrency gRPC · Kafka · RabbitMQ · WebSockets, API security & OAuth2/JWT hardening |
+| **Python Software Engineer** | Terralogic | Python / Ansible IaC modules for Cisco Catalyst Center automation, enterprise Linux & AWS administration |
 
 ## 🔬 Research & Highlights
 
+### 📚 Research
+
 - 🧠 **Capstone Thesis (9.17/10):** [Vietnamese Sign Language Recognition](https://github.com/Phat-pham99/Vietnamese_sign_language_recognition_using_MHI_and_CNN) — real-time MHI + CNN classifier for low-latency edge AI inference on Raspberry Pi
 - 📄 **IEEE TechRxiv preprint** on Edge AI / IoT architectures
+
+### 🛠️ Projects
+
 - ⚡ [HTCondor Distributed Workload POC](https://github.com/Phat-pham99/HTCondor_demo) — high-throughput job scheduling with containerized Linux workers on AWS
 - 📊 [gRPC Microservices Benchmark](https://github.com/Phat-pham99/gRPC-demo) — gRPC vs. REST performance under high-concurrency IoT telemetry workloads
-- 🌐 Open-source contributor — [Cisco Catalyst Center Ansible modules](https://github.com/cisco-en-programmability/dnacenter-ansible)
+
+### 🌐 Open Source
+
+- [Cisco Catalyst Center Ansible modules](https://github.com/cisco-en-programmability/dnacenter-ansible) — contributor
 
 <br/>
 <p align="center">
@@ -86,7 +98,6 @@
     <a href="https://micro-editor.github.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/micro-editor/micro/e69c000696906cd90340c54ef39648befe773fff/assets/micro-logo-drop.svg" alt="micro" width="80" height="55"/></a>
     <a href="https://www.getmonero.org" target="_blank" rel="noreferrer"><img src="assets/images/monero.svg" alt="monero" width="100" height="55"/></a>
     <img src="https://skillicons.dev/icons?i=arduino,matlab,raspberrypi,powershell&perline=6&theme=dark" alt="miscellaneous"/>
-    
 </div>
 
 <br/>
@@ -95,7 +106,8 @@
 </p>
 <br/>
 
-<!-- Bottom section -->
+## 📈 GitHub Stats
+
 <table align="center" cellspacing="0" cellpadding="0">
     <tr>
         <td align="center" valign="top">
